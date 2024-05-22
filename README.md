@@ -28,10 +28,7 @@
   <img src="https://github.com/karinka1901/karinka1901/assets/60856417/f89610e4-cbc4-4590-8448-e5066b721a06" width="30px"/>
  About Me:
 </h1>
-I'm a Game Development student from Poland
-
-- studying in Metropolia University of Applied Sciences.
-- 
+I'm a Game Development student at Metropolia Ubiversity of Applied Sciences
 
 ---
 <div>
@@ -57,6 +54,8 @@ Languages & Tools</h2>
 </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinka1901&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
