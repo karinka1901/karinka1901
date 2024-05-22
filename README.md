@@ -33,7 +33,7 @@ I'm a Game Development student at Metropolia Ubiversity of Applied Sciences
 ---
 <div>
     <h2>
-  <img src="https://github.com/karinka1901/karinka1901/assets/60856417/85baacaf-96c9-45aa-91a5-225393245d90" width="30px"/>
+  <img src="https://github.com/karinka1901/karinka1901/assets/60856417/f89610e4-cbc4-4590-8448-e5066b721a06" width="30px"/>
 Languages & Tools</h2>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -49,7 +49,7 @@ Languages & Tools</h2>
 
 ---
 <h2>
-  <img src="https://github.com/karinka1901/karinka1901/assets/60856417/c9df67e7-66ea-491b-9b4b-142c9cda3eb3"  width="30px">
+   <img src="https://github.com/karinka1901/karinka1901/assets/60856417/f89610e4-cbc4-4590-8448-e5066b721a06" width="30px"/>
   My Stats
 </h2>
 
