@@ -55,7 +55,7 @@ Languages & Tools</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinka1901&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://raw.githubusercontent.com/{karinka1901}/{karinka1901}/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/<karinka1901>/<karinka1901>/blob/output/github-contribution-grid-snake2.svg)
 
 
 
