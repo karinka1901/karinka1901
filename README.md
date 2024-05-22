@@ -13,9 +13,7 @@
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkarin-domagalska-a137532aa%2F" alt="LinkedIn Badge"/>
   </a>
 </div>
-<div id="profile_views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=karinka1901&style=flat-square&color=blue" alt=""/>
-</div>
+
 <h1 align="center">
   <img src="https://github.com/karinka1901/karinka1901/assets/60856417/3d04407a-f566-45ee-ba38-67ebd048c77c" width="30px"/>
  Welcome to my GitHub!
@@ -23,17 +21,17 @@
 </h1>
 
 
----
-<h1 >
-  <img src="https://github.com/karinka1901/karinka1901/assets/60856417/f89610e4-cbc4-4590-8448-e5066b721a06" width="30px"/>
+
+<h2 >
+  <img src="https://github.com/karinka1901/karinka1901/assets/60856417/f89610e4-cbc4-4590-8448-e5066b721a06" width="20px"/>
  About Me:
-</h1>
+</h2>
 I'm a Game Development student at Metropolia Ubiversity of Applied Sciences
 
----
+
 <div>
     <h2>
-  <img src="https://github.com/karinka1901/karinka1901/assets/60856417/f89610e4-cbc4-4590-8448-e5066b721a06" width="30px"/>
+  <img src="https://github.com/karinka1901/karinka1901/assets/60856417/f89610e4-cbc4-4590-8448-e5066b721a06" width="20px"/>
 Languages & Tools</h2>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -47,15 +45,13 @@ Languages & Tools</h2>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/unrealengine/unrealengine-original.svg"  title="UE5" alt="" width="40" height="40"/>&nbsp;
 </div>
 
----
+
 <h2>
-   <img src="https://github.com/karinka1901/karinka1901/assets/60856417/f89610e4-cbc4-4590-8448-e5066b721a06" width="30px"/>
+   <img src="https://github.com/karinka1901/karinka1901/assets/60856417/f89610e4-cbc4-4590-8448-e5066b721a06" width="20px"/>
   My Stats
 </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinka1901&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![snake animation](https://github.com/<karinka1901>/<karinka1901>/blob/output/github-contribution-grid-snake2.svg)
 
 
 
