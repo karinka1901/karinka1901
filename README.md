@@ -58,7 +58,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinka1901&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d)
+<img src="https://github.com/user-attachments/assets/e659fef5-2d58-4317-a873-5b5b09475e5f" width="90px">
 
 <picture>
   <!-- Dark mode -->
