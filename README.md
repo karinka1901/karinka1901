@@ -23,9 +23,10 @@
 <img src="https://github.com/user-attachments/assets/f22e8e13-c6ea-4770-9b2c-890da5435bef" width="30px"/>  ![About Me(1)](https://github.com/user-attachments/assets/9b42091b-5cc6-4368-bfe0-dc50b3c57384)
 
 
+
 I’m a game development student with a wide range of interests, that really enjoys creating things with code and bringing new ideas to life.  ![kittyrolleyes](https://github.com/user-attachments/assets/53e7aa00-91d7-4cd6-b08c-c4ffca7c176a)
 
-![5QJBBYNVIYY43YKODFTWSFKKIV5F2FO2](https://github.com/user-attachments/assets/4b8be3b0-f30a-4d51-9f9d-d7a7e7837423) ![5QJBBYNVIYY43YKODFTWSFKKIV5F2FO2](https://github.com/user-attachments/assets/4b8be3b0-f30a-4d51-9f9d-d7a7e7837423)
+<img src="https://github.com/user-attachments/assets/4b8be3b0-f30a-4d51-9f9d-d7a7e7837423" width="700px">
 
 
 
