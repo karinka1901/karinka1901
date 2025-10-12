@@ -15,10 +15,12 @@
 </div>
 
 <h1 align="center">
-  <img src="https://github.com/karinka1901/karinka1901/assets/60856417/3d04407a-f566-45ee-ba38-67ebd048c77c" width="30px"/>
- $${\color{pink} Welcome\space to\space my \space GitHub!}$$
-  <img src="https://github.com/karinka1901/karinka1901/assets/60856417/3d04407a-f566-45ee-ba38-67ebd048c77c" width="30px"/>
+
+
+  <img src="https://github.com/user-attachments/assets/9ac77004-1da7-4076-9cd2-87996af00e91"/>
+
 </h1>
+
 
 
 <h2 >
