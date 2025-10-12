@@ -6,25 +6,29 @@
   <img src="https://github.com/karinka1901/karinka1901/assets/60856417/0613c8c4-f91f-4026-9504-b4f6b66926b8" width="100"/> 
 <br>
   
-![blinkiesCafe-sR](https://github.com/user-attachments/assets/a1c644ee-5500-4d28-baf9-38e0fb23b219)
+![Welcome to my Github!!](https://github.com/user-attachments/assets/da25d0b0-db84-4561-a5e0-ea44dec020ae)
 
 </div>
-<h2 >
-<img src="https://github.com/user-attachments/assets/f22e8e13-c6ea-4770-9b2c-890da5435bef" width="30px"/>
-$${\color{magenta}About\space Me :}$$</h2>
-</h2>
-<p>
-I’m a game development student with a wide range of interests, that really enjoys creating things with code and bringing new ideas to life.
-<br>
+
+![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d)
 
 
+
+
+<img src="https://github.com/user-attachments/assets/f22e8e13-c6ea-4770-9b2c-890da5435bef" width="30px"/>  ![About Me(1)](https://github.com/user-attachments/assets/9b42091b-5cc6-4368-bfe0-dc50b3c57384)
+<p align="right">
+     I’m a game development student with a wide range of interests, that really enjoys creating things with code and bringing new ideas to life.
 </p>
-
-
 <div>
-   <h2> 
-  <img src="https://github.com/user-attachments/assets/f22e8e13-c6ea-4770-9b2c-890da5435bef" width="30px"/>
-$${\color{magenta}Languages\space and \space Tools:}$$</h2>
+<br>
+  
+
+![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d)
+
+
+  <img src="https://github.com/user-attachments/assets/f22e8e13-c6ea-4770-9b2c-890da5435bef" width="30px"/> ![Languages and Tools](https://github.com/user-attachments/assets/5843ccb0-d7af-47e6-ba21-1dbc6a3419b2)
+
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -37,14 +41,20 @@ $${\color{magenta}Languages\space and \space Tools:}$$</h2>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/unrealengine/unrealengine-original.svg"  title="UE5" alt="" width="40" height="40"/>&nbsp;
 </div>
 
+<br>
 
-<h2>
-<img src="https://github.com/user-attachments/assets/f22e8e13-c6ea-4770-9b2c-890da5435bef" width="30px"/>
-$${\color{magenta}My\space Stats:}$$
-</h2>
+![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d)
+
+<img src="https://github.com/user-attachments/assets/f22e8e13-c6ea-4770-9b2c-890da5435bef" width="30px"/> ![My Stats](https://github.com/user-attachments/assets/6f215148-f0cb-416c-8cfa-12e6f03244b5)
+
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinka1901&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d)
 
 <picture>
   <!-- Dark mode -->
