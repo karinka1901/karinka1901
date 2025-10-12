@@ -10,7 +10,11 @@
 
 </div>
 
-![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d)
+<div align="center"> 
+  
+  ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) 
+
+  </div>
 
 
 
@@ -23,7 +27,7 @@
 <br>
   
 
-![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d)
+![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) 
 
 
   <img src="https://github.com/user-attachments/assets/f22e8e13-c6ea-4770-9b2c-890da5435bef" width="30px"/> ![Languages and Tools](https://github.com/user-attachments/assets/5843ccb0-d7af-47e6-ba21-1dbc6a3419b2)
@@ -43,7 +47,7 @@
 
 <br>
 
-![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d)
+![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) 
 
 <img src="https://github.com/user-attachments/assets/f22e8e13-c6ea-4770-9b2c-890da5435bef" width="30px"/> ![My Stats](https://github.com/user-attachments/assets/6f215148-f0cb-416c-8cfa-12e6f03244b5)
 
