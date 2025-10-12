@@ -16,23 +16,21 @@
 
 <h1 align="center">
   <img src="https://github.com/karinka1901/karinka1901/assets/60856417/3d04407a-f566-45ee-ba38-67ebd048c77c" width="30px"/>
- Welcome to my GitHub!
+ $${\color{pink} Welcome\space to\space my \space GitHub!}$$
   <img src="https://github.com/karinka1901/karinka1901/assets/60856417/3d04407a-f566-45ee-ba38-67ebd048c77c" width="30px"/>
 </h1>
 
 
-
 <h2 >
   <img src="https://github.com/karinka1901/karinka1901/assets/60856417/f89610e4-cbc4-4590-8448-e5066b721a06" width="20px"/>
- About Me:
+  $${\color{pink}About\space Me:}$$
 </h2>
-I'm a Game Development student at Metropolia University of Applied Sciences
-
+I’m a game development student with a wide range of interests, that really enjoys creating things with code and bringing new ideas to life.
 
 <div>
     <h2>
   <img src="https://github.com/karinka1901/karinka1901/assets/60856417/f89610e4-cbc4-4590-8448-e5066b721a06" width="20px"/>
-Languages & Tools</h2>
+$${\color{pink}Languages\space and \space Tools:}$$</h2>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -48,7 +46,7 @@ Languages & Tools</h2>
 
 <h2>
    <img src="https://github.com/karinka1901/karinka1901/assets/60856417/f89610e4-cbc4-4590-8448-e5066b721a06" width="20px"/>
-  My Stats
+$${\color{pink}My\space Stats:}$$
 </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinka1901&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
