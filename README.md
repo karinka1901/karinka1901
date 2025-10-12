@@ -13,12 +13,12 @@
 
 <div align="center"> 
   
-  ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) 
+ ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) 
 
-  </div>
+</div>
 
 
-
+<br>
 
 <img src="https://github.com/user-attachments/assets/f22e8e13-c6ea-4770-9b2c-890da5435bef" width="30px"/>  ![About Me(1)](https://github.com/user-attachments/assets/9b42091b-5cc6-4368-bfe0-dc50b3c57384)
 
@@ -26,7 +26,7 @@
 
 I’m a game development student with a wide range of interests, that really enjoys creating things with code and bringing new ideas to life.  ![kittyrolleyes](https://github.com/user-attachments/assets/53e7aa00-91d7-4cd6-b08c-c4ffca7c176a)
 
-<img src="https://github.com/user-attachments/assets/4b8be3b0-f30a-4d51-9f9d-d7a7e7837423" width="700px">
+ ![RHYMQ5NZH6233KICJ774V64Y4OPNASZJ](https://github.com/user-attachments/assets/6cb3675b-128c-4624-9e7d-cb01101d1445) [Click Here](https://karinka1901.github.io/) $${\color{magenta}To \space check \space out \space my \space website!:}$$ <img src="https://github.com/user-attachments/assets/acba4254-a43f-4aa7-a9a6-6caf1416a2dd" width=30px>
 
 
 
@@ -49,8 +49,6 @@ I’m a game development student with a wide range of interests, that really enj
 </div>
 
 <br>
-
-![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) ![051](https://github.com/user-attachments/assets/5c51129e-9f4c-4d1a-afee-7eb68941a51d) 
 
 <img src="https://github.com/user-attachments/assets/f22e8e13-c6ea-4770-9b2c-890da5435bef" width="30px"/> ![My Stats](https://github.com/user-attachments/assets/6f215148-f0cb-416c-8cfa-12e6f03244b5)
 
