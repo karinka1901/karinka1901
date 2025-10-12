@@ -1,38 +1,30 @@
+
 <div id="header" align="center">
+  
+[![blinkiesCafe-9J](https://github.com/user-attachments/assets/5db091c8-8d6b-4035-8fbb-f004857eb37e)](https://karinka1901.github.io/) [![blinkiesCafe-u0](https://github.com/user-attachments/assets/937fa0db-84d7-40f4-8602-2c32871bd52e)](https://karinka1901.itch.io/) [![blinkiesCafe-Zd](https://github.com/user-attachments/assets/7e175423-f1b2-4ec8-b5af-a3b7e4c3ed06)](https://www.linkedin.com/in/karin-domagalska-a137532aa)
+  
+  <img src="https://github.com/karinka1901/karinka1901/assets/60856417/0613c8c4-f91f-4026-9504-b4f6b66926b8" width="100"/> 
+<br>
+  
+![blinkiesCafe-sR](https://github.com/user-attachments/assets/a1c644ee-5500-4d28-baf9-38e0fb23b219)
 
-  <img src="https://github.com/karinka1901/karinka1901/assets/60856417/0613c8c4-f91f-4026-9504-b4f6b66926b8" width="100"/>
 </div>
-<div id="badges" align="center">
-   <a href="https://karinka1901.itch.io/">
-     <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=Itch.io&logoColor=white&link=https%3A%2F%2Fkarinka1901.itch.io%2F" alt="Itch Badge"/>
-   </a>
-  <a href="https://karinka1901.github.io/">
-   <img src="https://img.shields.io/badge/Portfolio-violet?style=for-the-badge&logo=Portfolio&logoColor=white&link=https%3A%2F%2Fkarinka1901.github.io%2F" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/karin-domagalska-a137532aa/">
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkarin-domagalska-a137532aa%2F" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-<h1 align="center">
-
-
-  <img src="https://github.com/user-attachments/assets/9ac77004-1da7-4076-9cd2-87996af00e91"/>
-
-</h1>
-
-
-
 <h2 >
-  <img src="https://github.com/karinka1901/karinka1901/assets/60856417/f89610e4-cbc4-4590-8448-e5066b721a06" width="20px"/>
-  $${\color{pink}About\space Me:}$$
+<img src="https://github.com/user-attachments/assets/f22e8e13-c6ea-4770-9b2c-890da5435bef" width="30px"/>
+$${\color{magenta}About\space Me :}$$</h2>
 </h2>
+<p>
 I’m a game development student with a wide range of interests, that really enjoys creating things with code and bringing new ideas to life.
+<br>
+
+
+</p>
+
 
 <div>
-    <h2>
-  <img src="https://github.com/karinka1901/karinka1901/assets/60856417/f89610e4-cbc4-4590-8448-e5066b721a06" width="20px"/>
-$${\color{pink}Languages\space and \space Tools:}$$</h2>
+   <h2> 
+  <img src="https://github.com/user-attachments/assets/f22e8e13-c6ea-4770-9b2c-890da5435bef" width="30px"/>
+$${\color{magenta}Languages\space and \space Tools:}$$</h2>
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -47,8 +39,8 @@ $${\color{pink}Languages\space and \space Tools:}$$</h2>
 
 
 <h2>
-   <img src="https://github.com/karinka1901/karinka1901/assets/60856417/f89610e4-cbc4-4590-8448-e5066b721a06" width="20px"/>
-$${\color{pink}My\space Stats:}$$
+<img src="https://github.com/user-attachments/assets/f22e8e13-c6ea-4770-9b2c-890da5435bef" width="30px"/>
+$${\color{magenta}My\space Stats:}$$
 </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinka1901&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
