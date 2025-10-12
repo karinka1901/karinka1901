@@ -55,7 +55,7 @@ Languages & Tools</h2>
 
 ![Snake animation](https://github.com/karinka1901/karinka1901/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://raw.githubusercontent.com/karinka1901/karinka1901/output/github-contribution-grid-snake.svg)
+
 
 
 
