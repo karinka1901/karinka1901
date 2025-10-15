@@ -50,17 +50,11 @@ I’m a game development student with a wide range of interests, that really enj
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/f22e8e13-c6ea-4770-9b2c-890da5435bef" width="30px"/> ![My Stats](https://github.com/user-attachments/assets/6f215148-f0cb-416c-8cfa-12e6f03244b5)
+<img src="https://github.com/user-attachments/assets/f22e8e13-c6ea-4770-9b2c-890da5435bef" width="30px"/> ![My Stats](https://github.com/user-attachments/assets/6f215148-f0cb-416c-8cfa-12e6f03244b5)  <img src="https://github.com/user-attachments/assets/62aabeff-1a36-4319-b70e-14087c22112e" width="200px"> </img>
 
 
+![karinka1901's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karinka1901&theme=transparent&show_icons=true&hide_border=false&layout=compact)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karinka1901&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/62aabeff-1a36-4319-b70e-14087c22112e"> </img>
-</div>
 
 <picture>
   <!-- Dark mode -->
@@ -69,8 +63,6 @@ I’m a game development student with a wide range of interests, that really enj
   <!-- Light mode (fallback) -->
   <img src="https://raw.githubusercontent.com/karinka1901/karinka1901/output/github-contribution-grid-snake.gif" alt="GitHub Snake">
 </picture>
-
-
 
 
 
