@@ -26,7 +26,7 @@
 
 I’m a game development student with a wide range of interests, that really enjoys creating things with code and bringing new ideas to life.  ![kittyrolleyes](https://github.com/user-attachments/assets/53e7aa00-91d7-4cd6-b08c-c4ffca7c176a)
 
- ![RHYMQ5NZH6233KICJ774V64Y4OPNASZJ](https://github.com/user-attachments/assets/6cb3675b-128c-4624-9e7d-cb01101d1445) [Click Here](https://karinka1901.github.io/) $${\color{magenta}To \space check \space out \space my \space website!:}$$ <img src="https://github.com/user-attachments/assets/acba4254-a43f-4aa7-a9a6-6caf1416a2dd" width=30px>
+ ![RHYMQ5NZH6233KICJ774V64Y4OPNASZJ](https://github.com/user-attachments/assets/6cb3675b-128c-4624-9e7d-cb01101d1445) [Click Here](https://karinka1901.github.io/) $${\color{magenta}To \space check \space out \space my \space website!}$$ <img src="https://github.com/user-attachments/assets/acba4254-a43f-4aa7-a9a6-6caf1416a2dd" width=30px> (work is still in progress)
 
 
 
