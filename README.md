@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   
-[![blinkiesCafe-9J](https://github.com/user-attachments/assets/5db091c8-8d6b-4035-8fbb-f004857eb37e)](https://karinka1901.github.io/) [![blinkiesCafe-u0](https://github.com/user-attachments/assets/937fa0db-84d7-40f4-8602-2c32871bd52e)](https://karinka1901.itch.io/) [![blinkiesCafe-Zd](https://github.com/user-attachments/assets/7e175423-f1b2-4ec8-b5af-a3b7e4c3ed06)](https://www.linkedin.com/in/karin-domagalska-a137532aa)
+[![blinkiesCafe-9J](https://github.com/user-attachments/assets/5db091c8-8d6b-4035-8fbb-f004857eb37e)](https://karinka.dev) [![blinkiesCafe-u0](https://github.com/user-attachments/assets/937fa0db-84d7-40f4-8602-2c32871bd52e)](https://karinka1901.itch.io/) [![blinkiesCafe-Zd](https://github.com/user-attachments/assets/7e175423-f1b2-4ec8-b5af-a3b7e4c3ed06)](https://www.linkedin.com/in/karin-domagalska-a137532aa)
   
   ![a_cattyping](https://github.com/user-attachments/assets/1442c2ee-0889-4bb3-b2db-a136175603c7)
 
