@@ -23,8 +23,9 @@
 <img src="https://github.com/user-attachments/assets/f22e8e13-c6ea-4770-9b2c-890da5435bef" width="30px"/>  ![About Me(1)](https://github.com/user-attachments/assets/9b42091b-5cc6-4368-bfe0-dc50b3c57384)
 
 
+I am an IT student specializing in **Game Development** and I primarily work with **Unity/C#**. I also have **VR/XR development** experience from my internship where I built interactive applications for **Meta Quest 3**. 
 
-I’m a game development student with a wide range of interests, that really enjoys creating things with code and bringing new ideas to life.  ![kittyrolleyes](https://github.com/user-attachments/assets/53e7aa00-91d7-4cd6-b08c-c4ffca7c176a)
+Outside of that, I enjoy experimenting with different technologies and building small projects across a range of tools and languages.  ![kittyrolleyes](https://github.com/user-attachments/assets/53e7aa00-91d7-4cd6-b08c-c4ffca7c176a)
 
  ![RHYMQ5NZH6233KICJ774V64Y4OPNASZJ](https://github.com/user-attachments/assets/6cb3675b-128c-4624-9e7d-cb01101d1445) [Click Here](https://karinka1901.github.io/) $${\color{magenta}To \space check \space out \space my \space website!}$$ <img src="https://github.com/user-attachments/assets/acba4254-a43f-4aa7-a9a6-6caf1416a2dd" width=30px> (work is still in progress)
 
