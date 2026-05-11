@@ -23,7 +23,7 @@
 <img src="https://github.com/user-attachments/assets/f22e8e13-c6ea-4770-9b2c-890da5435bef" width="30px"/>  ![About Me(1)](https://github.com/user-attachments/assets/9b42091b-5cc6-4368-bfe0-dc50b3c57384)
 
 
-I am an IT student specializing in **Game Development** and I primarily work with **Unity/C#**. I also have **VR/XR development** experience from my internship where I built interactive applications for **Meta Quest 3**. 
+I am a recent IT graduate specializing in **Game Development** and I primarily work with **Unity/C#**. I also have **VR/XR development** experience from my internship where I built interactive applications for **Meta Quest 3**. 
 
 Outside of that, I enjoy experimenting with different technologies and building small projects across a range of tools and languages.  ![kittyrolleyes](https://github.com/user-attachments/assets/53e7aa00-91d7-4cd6-b08c-c4ffca7c176a)
 
