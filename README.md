@@ -30,7 +30,7 @@ Outside of that, I enjoy experimenting with different technologies and building 
 <div>
 <br>
   
-  <img src="https://github.com/user-attachments/assets/f22e8e13-c6ea-4770-9b2c-890da5435bef" width="30px"/> ![Languages and Tools](https://github.com/user-attachments/assets/5843ccb0-d7af-47e6-ba21-1dbc6a3419b2)
+ ![Languages and Tools](https://github.com/user-attachments/assets/5843ccb0-d7af-47e6-ba21-1dbc6a3419b2)
 
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -46,8 +46,7 @@ Outside of that, I enjoy experimenting with different technologies and building 
 </div>
 
 <br>
-
-<img src="https://github.com/user-attachments/assets/f22e8e13-c6ea-4770-9b2c-890da5435bef" width="30px"/> ![My Stats](https://github.com/user-attachments/assets/6f215148-f0cb-416c-8cfa-12e6f03244b5)  <img src="https://github.com/user-attachments/assets/62aabeff-1a36-4319-b70e-14087c22112e" width="200px"> </img>
+ ![My Stats](https://github.com/user-attachments/assets/6f215148-f0cb-416c-8cfa-12e6f03244b5)  <img src="https://github.com/user-attachments/assets/62aabeff-1a36-4319-b70e-14087c22112e" width="200px"> </img>
 
 
 ![karinka1901's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karinka1901&theme=transparent&show_icons=true&hide_border=false&layout=compact)
