@@ -47,9 +47,6 @@ Outside of that, I enjoy experimenting with different technologies and building 
 
 <br>
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=karinka1901&theme=transparent&show_icons=true&hide_border=false&layout=compact)
-
-
 <picture>
   <!-- Dark mode -->
   <source srcset="https://raw.githubusercontent.com/karinka1901/karinka1901/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
