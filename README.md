@@ -5,10 +5,6 @@
   
   ![a_cattyping](https://github.com/user-attachments/assets/1442c2ee-0889-4bb3-b2db-a136175603c7)
 
-<br>
-  
-![Welcome to my Github!!](https://github.com/user-attachments/assets/da25d0b0-db84-4561-a5e0-ea44dec020ae) ![46OOIXW7FGX7QSZYBNND72NPWFW4KYIE](https://github.com/user-attachments/assets/2c9996bd-cfa0-4bce-9ab7-3ffb01a6c804)
-
 </div>
 
 <div align="center"> 
@@ -20,7 +16,7 @@
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/f22e8e13-c6ea-4770-9b2c-890da5435bef" width="30px"/>  ![About Me(1)](https://github.com/user-attachments/assets/9b42091b-5cc6-4368-bfe0-dc50b3c57384)
+![About Me(1)](https://github.com/user-attachments/assets/9b42091b-5cc6-4368-bfe0-dc50b3c57384)
 
 
 I am a recent IT graduate specializing in **Game Development** and I primarily work with **Unity/C#**. I also have **VR/XR development** experience from my internship where I built interactive applications for **Meta Quest 3**. 
