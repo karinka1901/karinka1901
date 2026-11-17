@@ -47,7 +47,7 @@ Outside of that, I enjoy experimenting with different technologies and building 
 
 <br>
 
-![karinka1901's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karinka1901&theme=transparent&show_icons=true&hide_border=false&layout=compact)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=karinka1901&theme=transparent&show_icons=true&hide_border=false&layout=compact)
 
 
 <picture>
