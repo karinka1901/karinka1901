@@ -46,7 +46,7 @@ Outside of that, I enjoy experimenting with different technologies and building 
 </div>
 
 <br>
- ![My Stats](https://github.com/user-attachments/assets/6f215148-f0cb-416c-8cfa-12e6f03244b5)  <img src="https://github.com/user-attachments/assets/62aabeff-1a36-4319-b70e-14087c22112e" width="200px"> </img>
+![My Stats](https://github.com/user-attachments/assets/6f215148-f0cb-416c-8cfa-12e6f03244b5) <img src="https://github.com/user-attachments/assets/62aabeff-1a36-4319-b70e-14087c22112e" width="200px"> </img>
 
 
 ![karinka1901's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karinka1901&theme=transparent&show_icons=true&hide_border=false&layout=compact)
